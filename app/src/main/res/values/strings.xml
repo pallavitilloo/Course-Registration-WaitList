@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Course Registration Waiting List</string>
+    <string name="title">CSIT-551 Waiting List</string>
+    <string name="developer_details">Developed by: Pallavi Tilloo</string>
+    <string name="activity_title_home">Course Registration Waiting List</string>
+    <string name="msg_no_notes">No students!</string>
+    <string name="lbl_new_item_title">New Student</string>
+    <string name="lbl_set_priority_title">Set Priority for student</string>
+    <string name="lbl_edit_item_title">Edit Student</string>
+    <string name="hint_enter_name">Enter student name</string>
+    <string name="hint_enter_priority">Enter Priority (Freshman/Sophomore/Junior/Senior/Graduate)</string>
+</resources>
